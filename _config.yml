@@ -2,6 +2,7 @@ name: uxux
 favicon: null
 layout_spectrum: 0.90994
 typography_spectrum: 0.98405
+title: uxux
 cta:
   domain: null
   bucket: null
