@@ -1,7 +1,7 @@
 name: uxux
 favicon: null
-layout_spectrum: 0.97185
-typography_spectrum: 0.98405
+layout_spectrum: 0.00084
+typography_spectrum: 0.50168
 title: uxux
 cta:
   domain: null
@@ -23,7 +23,7 @@ color:
     - '#d43549'
     - '#507877'
   brandStrength: 1
-  lightness: 0.75
-  saturation: 0.1875
-  rhythmicContrast: 0.25
+  lightness: 0.0625
+  saturation: 0
+  rhythmicContrast: 1
 purpose: []
